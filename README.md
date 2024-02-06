@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Melike Sena Çakır</h1>
 
 ###
+![](https://komarev.com/ghpvc/?username=melikesenacakir&style=flat&color=21F746&label=Visitors)
 
 <p align="center">Welcome to my github profile! I'm currently improving my skills as Fullstack Developer 👨‍💻</p>
 
@@ -13,6 +14,13 @@
 ###
 
 <p align="left">⚡ No bugs in here!</p><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/melikesenaçakır/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+<br>
 
 ![MvMxQ1a](https://github.com/melikesenacakir/melikesenacakir/assets/115591143/d6e28385-b8d8-4998-ae14-0739536fa741)
 
@@ -69,12 +77,6 @@
 <br>
 
 <h1></h1>
-
-<div align="center">
-  <a href="https://linkedin.com/in/melikesenaçakır" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
   
