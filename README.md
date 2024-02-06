@@ -15,7 +15,7 @@
 <p align="left">⚡ No bugs in here!</p>
 
 ###
----
+<h1></h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
----
+<h1></h1>
 
 ###
 <div>
@@ -62,7 +62,7 @@
   </div>
 <br>
 
----
+<h1></h1>
 
 <div align="center">
   <a href="https://linkedin.com/in/melikesenaçakır" target="_blank">
