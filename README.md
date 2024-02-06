@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Welcome to my github profile! I'm currently improving my skills as Fullstack Developer 👨‍💻</h4>
+<p align="center">Welcome to my github profile! I'm currently improving my skills as Fullstack Developer 👨‍💻</p>
 
 ###
 
