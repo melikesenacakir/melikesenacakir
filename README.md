@@ -14,8 +14,6 @@
 
 <p align="left">⚡ No bugs in here!</p><br>
 
-![](https://i.imgur.com/50NA7vr.gif)
-
 
 ###
 
