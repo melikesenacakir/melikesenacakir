@@ -69,16 +69,11 @@
 
 <h1></h1>
 
-###
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=melikesenacakir&show_icons=true&count_private=true" align=left"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikesenacakir&hide_border=true&layout=compact" align="left" />
-  </div>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikesenacakir&layout=compact&theme=transparent" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=melikesenacakir&show_icons=true&locale=en&theme=transparent" />
+</div>
 <br>
-
-<h1></h1>
-
-###
   
 
 <br/>  
