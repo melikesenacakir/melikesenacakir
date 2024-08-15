@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<p align="left">🌱 I’m currently learning Golang and web security</p>
+<p align="left">🌱 I’m currently learning Golang, Angular and web security</p>
 
 ###
 
