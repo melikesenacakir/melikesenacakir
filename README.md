@@ -76,7 +76,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikesenacakir&layout=compact&theme=transparent" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=melikesenacakir&show_icons=true&locale=en&theme=transparent" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=melikesenacakir&show_icons=true&locale=en&theme=transparent" alt="melike" />
 </div>
 <br>
   
